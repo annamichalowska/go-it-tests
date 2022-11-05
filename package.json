@@ -1,0 +1,22 @@
+{
+  "name": "text",
+  "version": "1.0.0",
+  "description": "GoIT tests",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annamichalowska/go-it-tests.git"
+  },
+  "author": "AM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annamichalowska/go-it-tests/issues"
+  },
+  "homepage": "https://github.com/annamichalowska/go-it-tests#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
